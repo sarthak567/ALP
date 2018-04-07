@@ -1,3 +1,4 @@
+; Factorial of a number in 8085
 MVI B,04H;
 MOV A,B;
 CPI 00H;
