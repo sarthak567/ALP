@@ -1,3 +1,4 @@
+;16 bit addition in 8085
 LXI H,003CH;
 MOV A,M;
 INX H;
