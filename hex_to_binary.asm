@@ -1,3 +1,4 @@
+; Hexadecimal to binary in 8085
 MVI C,08H;
 MVI A,0FFH;
 LXI H,0040H;
