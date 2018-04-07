@@ -1,3 +1,4 @@
+; Sorting 5 bytes in ascending order
 MVI B,05H;
 LOOP1: MOV C,B;
        LXI H,003CH;
